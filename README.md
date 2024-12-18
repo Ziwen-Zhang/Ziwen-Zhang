@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**Ziwen-Zhang/Ziwen-Zhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m Ziwen Zhang, a full-stack software engineer. I build dynamic, user-focused web applications using frameworks like React, Flask, and Express. With expertise in databases, APIs, Redux, and WebSocket, I’m passionate about solving problems and creating impactful software.
 
-Here are some ideas to get you started:
+<h2>Contact</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ziwen-zhang-a6a73216b/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Skills</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,py,ts,sql,react,redux,flask,nodejs,express,postgres,sqlite,docker,git,aws,html,css,tailwind" />
+  </a>
+</p>
