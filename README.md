@@ -2,6 +2,7 @@
 
 Hi, I’m Ziwen Zhang, a full-stack software engineer. I build dynamic, user-focused web applications using frameworks like React, Flask, and Express. With expertise in databases, APIs, Redux, and WebSocket, I’m passionate about solving problems and creating impactful software.
 
+Personal Website: <a href="https://ziwen-zhang.github.io/"> https://ziwen-zhang.github.io/</a>
 <h2>Contact Me</h2>
 <p align="left">
     <a href="https://www.linkedin.com/in/ziwen-zhang-a6a73216b/" title="LinkedIn Profile">
@@ -13,7 +14,8 @@ Hi, I’m Ziwen Zhang, a full-stack software engineer. I build dynamic, user-foc
     <a href="mailto:ziwenzhang124@gmail.com" title="Email Me">
         <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
     </a>
-    <span>ziwenzhang124@gmail.com</span>
+    <a href="mailto:ziwenzhang124@gmail.com" title="Email Me">ziwenzhang124@gmail.com
+    </a>
 </p>
 
 <h2>Skills</h2>
