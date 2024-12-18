@@ -3,16 +3,25 @@
 Hi, I’m Ziwen Zhang, a full-stack software engineer. I build dynamic, user-focused web applications using frameworks like React, Flask, and Express. With expertise in databases, APIs, Redux, and WebSocket, I’m passionate about solving problems and creating impactful software.
 
 <h2>Contact Me</h2>
-<p align="left">
+<p align="center">
     <a href="https://www.linkedin.com/in/ziwen-zhang-a6a73216b/" title="LinkedIn Profile">
-        www.linkedin.com/in/ziwen-zhang-a6a73216b
         <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
     </a>
-    <a href="mailto:ziwenzhang124@gmail.com" title="Email Me">
-        ziwenzhang124@gmail.com
-        <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+    <a href="javascript:void(0)" title="Copy Email" onclick="copyEmailToClipboard()">
+        <img src="https://skillicons.dev/icons?i=gmail" alt="Copy Email" />
     </a>
 </p>
+
+<script>
+    function copyEmailToClipboard() {
+        const email = "ziwenzhang124@gmail.com";
+        navigator.clipboard.writeText(email).then(() => {
+            alert("Email address copied to clipboard!");
+        }).catch(err => {
+            alert("Failed to copy email address. Please try again.");
+        });
+    }
+</script>
 
 <h2>Skills</h2>
 <p align="center">
